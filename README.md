@@ -100,7 +100,6 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 _If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work._
 
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
-* [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](https://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
@@ -161,7 +160,6 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
 * [SassConf](http://sassconf.com/) // [@SassConf](https://twitter.com/sassconf)
 * [Self Conference](http://selfconference.org/) // [@selfconference](https://twitter.com/selfconference)
-* [Space City JS](http://spacecity.codes/) // [@SpaceCityConfs](https://twitter.com/SpaceCityConfs)
 * [Strange Loop Conf](https://thestrangeloop.com/) // [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * [Transhack](http://www.transhack.org/events/) // [@TransH4CK](https://twitter.com/TransH4CK)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
@@ -172,10 +170,9 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 * [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
-* [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
 * [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
 * [QueensJS](https://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
-* [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.twitter.com/WriteSpeakCode)
+* [WriteSpeakCode Workshop](http://www.writespeakcode.com) // [@WriteSpeakCode](https://www.twitter.com/WriteSpeakCode)
 
 ### South American
 
@@ -245,7 +242,6 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [JSConf BP](http://jsconfbp.com/) [@jsconfbp](https://twitter.com/jsconfbp)
 * [JSConf EU](https://2015.jsconf.eu/) [@jsconfeu](https://twitter.com/jsconfeu)
 * [JSConf Iceland](http://2016.jsconf.is) // [@jsconfis](https://twitter.com/jsconfis)
-* [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
 * [JS Unconf](http://2015.jsunconf.eu/) // [@jsunconf](https://twitter.com/jsunconf)
 * [HumanTalks](https://humantalks.com/) // [@humantalks](https://twitter.com/HumanTalks)
 * [LXJS](https://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
@@ -259,7 +255,6 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [PolyConf](https://polyconf.com/) // [@polyconfhq](https://twitter.com/polyconfhq)
 * [React Amsterdam](https://react.amsterdam) // [@ReactAmsterdam](https://twitter.com/ReactAmsterdam)
 * [ReactEurope](https://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
-* [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Redecentralize](http://redecentralize.org/) // [@redecentralize](https://twitter.com/redecentralize)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [RigaDevDays](https://rigadevdays.lv/) // [@rigadevdays](https://twitter.com/rigadevdays)
@@ -300,7 +295,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * **Location:** Los Angeles, NY, London.
 * **Date:** May, 2017
 * **Has reminder mailing list:** Yes
-* **Twitter:** [@awwwards](https://twitter.com/awwwards), [@awwwardsNYC](https://twitter.com/awwwardsNYC)
+* **Twitter:** [@awwwards](https://twitter.com/awwwards)
 * **Tags:** design
 * **Attendees:** _Add your name if you've gone._
 
@@ -384,7 +379,7 @@ How to host stuff.
 
 ## About
 
-_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/lists/confs-and-meetups ). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
+_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/lists/confs-and-meetups )._
 
 ## Maintainers
 
