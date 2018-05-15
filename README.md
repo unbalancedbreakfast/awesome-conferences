@@ -60,7 +60,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 > The organizing team did an incredible job to have speakers from all over the world and from different parts of the Android community(Android team, Google Developer Experts, Developers strongly involved in the environment). - [@jobot0](https://twitter.com/jobot0) 
 
-* **Website**: http://androidmakers.fr/
+* **Website**: https://androidmakers.fr/
 * **Location**: Paris, France
 * **Date**: April 2017
 * **Has reminder mailing list**: yes
@@ -103,25 +103,25 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
-* [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
-* [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
+* [Medellin JS](https://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
+* [OpenVis Conf](https://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
-* [Symfony Live](http://live.symfony.com/) // [@symfony_live](https://twitter.com/symfony_live)
+* [Symfony Live](https://live.symfony.com/) // [@symfony_live](https://twitter.com/symfony_live)
 * [React.js Conf](http://conf.reactjs.org/) // [@vjeux](https://twitter.com/vjeux)
-* [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
+* [Web Rebels Conf](https://webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
 
 ### North American
 
-* [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
+* [!!Con](https://www.bangbangcon.com) // [@bangbangcon](https://twitter.com/bangbangcon)
 * [Active Indgredients](http://activeingredients.info/) 
-* [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)
-* [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
-* [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
-* [Clojure/conj](http://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
-* [CppCon](http://cppcon.org/) // [@cppcon](https://twitter.com/cppcon)
-* [CSSConf Oakland](http://cssconfoak.land/) // [@CSSConfOak](https://twitter.com/cssconfoak)
-* [CSSConf US](http://cssconf.com) // [@CSSConf US](https://twitter.com/CSSConf)
+* [AlterConf](https://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)
+* [CakeFest](https://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
+* [CascadiaJS](https://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
+* [Clojure/conj](https://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
+* [CppCon](https://cppcon.org/) // [@cppcon](https://twitter.com/cppcon)
+* [CSSConf Oakland](https://cssconfoak.land/) // [@CSSConfOak](https://twitter.com/cssconfoak)
+* [CSSConf US](https://cssconf.com) // [@CSSConf US](https://twitter.com/CSSConf)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
 * [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
 * [DEFCON](https://defcon.org/) // [@_defcon_](https://twitter.com/_defcon_)
@@ -129,35 +129,35 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [DjangoCon US](https://djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 * [Dockerconf](http://2016.dockercon.com/) // [@dockercon](https://twitter.com/dockercon)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
-* [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
+* [EmberConf](https://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
 * [Facebook f8](https://www.facebook.com/f8)
 * [Forward JS](http://forwardjs.com/) // [@forwardJS](https://twitter.com/forwardJS/)
-* [Geospatial Canada](http://geospatialcanada.wbresearch.com/) // [@GeospatialCan](https://twitter.com/GeospatialCan)
+* [Geospatial Canada](https://geospatialcanada.wbresearch.com/) // [@GeospatialCan](https://twitter.com/GeospatialCan)
 * [Google I/O](https://www.google.com/events/io) // [@googledevs](https://twitter.com/googledevs)
-* [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
+* [HTML5DevConf](https://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
 * [JavaOne](https://www.oracle.com/javaone) // [@JavaOneConf](https://twitter.com/JavaOneConf)
 * [JSConf (All)](http://jsconf.com) // [@jsconf](https://twitter.com/jsconf)
 * [JSConf US](http://2015.jsconf.us/) // [@JSConfUS](https://twitter.com/JSConfUS)
 * [KCDC](http://www.kcdc.info/) // [@kc_dc](https://twitter.com/kc_dc)
 * [LamdaConf](http://www.degoesconsulting.com/lambdaconf-2015/) // [@LambdaConf](https://twitter.com/lambda_conf)
-* [LibrePlanet](http://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
+* [LibrePlanet](https://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
 * [MidwestJS](http://midwestjs.com/) // [@midwest_js](https://twitter.com/midwest_js)
 * [NCDevCon](http://ncdevcon.com/) // [@ncdevcon](https://twitter.com/ncdevcon)
-* [NebraskaJS](http://nejsconf.com/) // [@nejsconf](https://twitter.com/nejsconf)
+* [NebraskaJS](https://nejsconf.com/) // [@nejsconf](https://twitter.com/nejsconf)
 * [ng-conf](http://www.ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
 * [nodeconf](http://nodeconf.com/) // [@nodeconf](https://twitter.com/nodeconf)
 * [Node Summit](nodesummit.com) // [@NodeSummit](https://twitter.com/NodeSummit)
 * [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
 * [npmCamp](http://npm.camp) // [@npmcamp](https://twitter.com/npmcamp)
-* [O'Reilly Fluent](http://fluentconf.com) // [@fluentconf](https://twitter.com/fluentconf)
-* [O'Reilly Strata](http://strataconf.com/) // [@strataconf](https://twitter.com/strataconf)
+* [O'Reilly Fluent](https://fluentconf.com) // [@fluentconf](https://twitter.com/fluentconf)
+* [O'Reilly Strata](https://strataconf.com/) // [@strataconf](https://twitter.com/strataconf)
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
-* [OpenWest](http://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
-* [OSCON](http://www.oscon.com/open-source-2015) // [@oscon](https://twitter.com/oscon)
-* [Philly ETE](http://phillyemergingtech.com)
-* [PyCon](http://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
+* [OpenWest](https://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
+* [OSCON](https://www.oscon.com/open-source-2015) // [@oscon](https://twitter.com/oscon)
+* [Philly ETE](https://phillyemergingtech.com)
+* [PyCon](https://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
 * [React Rally](http://www.reactrally.com) // [@ReactRally](https://twitter.com/ReactRally)
-* [RealtimeConf](http://realtimeconf.com/) // [@RealtimeConf](https://twitter.com/RealtimeConf)
+* [RealtimeConf](https://realtimeconf.com/) // [@RealtimeConf](https://twitter.com/RealtimeConf)
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
 * [SassConf](http://sassconf.com/) // [@SassConf](https://twitter.com/sassconf)
 * [Self Conference](http://selfconference.org/) // [@selfconference](https://twitter.com/selfconference)
@@ -166,7 +166,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [Transhack](http://www.transhack.org/events/) // [@TransH4CK](https://twitter.com/TransH4CK)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
 * [UtahJS](conf.utahjs.com) // [@utjs](https://twitter.com/utjs)
-* [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
+* [XOXO](https://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 
 #### New York
 
@@ -174,13 +174,13 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
 * [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
 * [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
-* [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
+* [QueensJS](https://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
 * [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.twitter.com/WriteSpeakCode)
 
 ### South American
 
-* [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
-* [Conference CSS Brazil](http://conferenciacssbrasil.com.br/) // [@confcssbrasil](http://www.twitter.com/confcssbrasil)
+* [Brazil JS Conf](https://braziljs.com.br/) // [@braziljs](https://www.twitter.com/braziljs)
+* [Conference CSS Brazil](http://conferenciacssbrasil.com.br/) // [@confcssbrasil](https://www.twitter.com/confcssbrasil)
 * [CSSConf Argentina](http://cssconfar.com) // [@Css_Conf_AR](https://twitter.com/Css_Conf_AR)
 * [Front in Aracaju](http://www.frontinaracaju.com.br/) // [@frontinaracaju](https://twitter.com/frontinaracaju)
 * [Front in BH](http://frontinbh.com.br/) // [@frontinbh](https://twitter.com/frontinbh)
@@ -188,18 +188,18 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [Front in POA](http://frontinpoa.com.br/) // [@frontinpoa](https://twitter.com/frontinpoa)
 * [Front in Recife](http://frontinrecife.com.br/) // [@frontinrecife](https://twitter.com/frontinrecife)
 * [Front in Sampa](http://www.frontinsampa.com.br/) // [@frontinsp](https://twitter.com/frontinsp)
-* [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
-* [JSConf BR](http://jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
-* [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
-* [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
+* [JSConf Argentina](https://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
+* [JSConf BR](https://jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
+* [JSConf Colombia](https://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
+* [JSConf Uruguay](https://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
 * [PyCon Argentina](http://ar.pycon.org) // [@pyconar](https://twitter.com/pyconar)
-* [PyCon Brasil](http://2014.pythonbrasil.org.br/) // [@pythonbrasil](https://twitter.com/pythonbrasil)
+* [PyCon Brasil](https://2014.pythonbrasil.org.br/) // [@pythonbrasil](https://twitter.com/pythonbrasil)
 * [RSJS](http://rsjs.org/) // [@rs_js](https://twitter.com/rs_js)
 * [RubyConf Argentina](http://rubyconfargentina.org/) // [@rubyconfAR](https://twitter.com/RubyConfAR)
-* [RubyConf Brasil](http://www.rubyconf.com.br/) // [@rubyconfbr](https://twitter.com/rubyconfbr)
+* [RubyConf Brasil](https://www.rubyconf.com.br/) // [@rubyconfbr](https://twitter.com/rubyconfbr)
 * [RubyConf Colombia](http://www.rubyconf.co/) // [@RubyConfCo](https://twitter.com/RubyConfCo)
 * [StarTechConf Chile](http://www.startechconf.com/) // [@startechconf](https://twitter.com/startechconf)
-* [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
+* [Tableless Conference](https://tableless.com.br/tablelessconf/) // [@tableless](https://twitter.com/tableless)
 
 ### European
 
@@ -207,79 +207,79 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [AmsterdamJS Conference](https://amsterdamjs.com) // [@AmsterdamJS](https://twitter.com/AmsterdamJS)
 * [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
 * [Basta!](https://basta.net/en) // [@bastacon](https://twitter.com/bastacon)
-* [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
+* [Beyond Tellerrand](https://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [CCC (Chaos Communication Camp)](https://ccc.de/) // [@chaosupdates](https://twitter.com/chaosupdates)
-* [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
+* [coldfrontconf](https://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
 * [container.camp](https://container.camp/) // [@containercamp](https://twitter.com/containercamp)
 * [copenhagenjs](http://copenhagenjs.dk/) // [@copenhagenjs](https://twitter.com/copenhagenjs)
-* [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
+* [Cornerstone](https://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
 * [Craft Conf](http://craft-conf.com/2015) // [@CraftConf](https://twitter.com/@CraftConf)
 * [CSSconf Budapest](http://cssconfbp.rocks/) // [@cssconfbudapest](https://twitter.com/cssconfbudapest)
 * [CSSconf EU](http://cssconf.eu) // [@CSSconfeu](https://twitter.com/CSSconfeu)
 * [CSSconf Nordic](http://cssconf.no/) // [@cssconfno](https://twitter.com/cssconfno)
-* [csv,conf](http://csvconf.com/) // [@CSVConference](https://twitter.com/CSVConference)
+* [csv,conf](https://csvconf.com/) // [@CSVConference](https://twitter.com/CSVConference)
 * [Decentralize Camp](http://decentralizecamp.com/) // [@decentamp](https://twitter.com/decentcamp)
-* [DEVit](http://www.devitconf.org/) // [@devitconf](https://twitter.com/devitconf)
-* [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
+* [DEVit](https://www.devitconf.org/) // [@devitconf](https://twitter.com/devitconf)
+* [Devoxx](https://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
 * [DevTernity](https://devternity.com/) // [@devternity](https://twitter.com/devternity)
-* [dotCSS](http://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
-* [dotGo](http://www.dotgo.eu/) // [@dotGoEu](https://twitter.com/dotGoEu)
-* [dotJS](http://www.dotjs.io/) // [@dotJS](https://twitter.com/dotJS)
-* [dotScale](http://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
-* [dotSwift](http://www.dotswift.io/) // [@dotSwift](https://twitter.com/dotSwift)
-* [dotSecurity](http://www.dotsecurity.io/) // [@dotSecurityio](https://twitter.com/dotSecurityio)
+* [dotCSS](https://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
+* [dotGo](https://www.dotgo.eu/) // [@dotGoEu](https://twitter.com/dotGoEu)
+* [dotJS](https://www.dotjs.io/) // [@dotJS](https://twitter.com/dotJS)
+* [dotScale](https://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
+* [dotSecurity](https://www.dotsecurity.io/) // [@dotSecurityio](https://twitter.com/dotSecurityio)
+* [dotSwift](https://www.dotswift.io/) // [@dotSwift](https://twitter.com/dotSwift)
 * [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
-* [Ethereum Devcon2](http://ethereumfoundation.org/devcon/)
-* [eurucamp](http://eurucamp.org/) // [@eurucamp](https://twitter.com/eurucamp)
+* [Ethereum Devcon2](https://ethereumfoundation.org/devcon/)
+* [eurucamp](https://eurucamp.org/) // [@eurucamp](https://twitter.com/eurucamp)
 * [EuRuKo](http://euruko.org/) // [@euruko](https://twitter.com/euruko)
-* [FOSDEM](https://fosdem.org/2015/) // [@fosdem](https://twitter.com/fosdem)
-* [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
+* [FOSDEM](https://fosdem.org/) // [@fosdem](https://twitter.com/fosdem)
+* [Front-Trends](https://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 * [FSCONS](https://fscons.org/2015/) // [@fscons](https://twitter.com/fscons)
-* [FullStack Fest](http://www.fullstackfest.com/) // [@fullstackfest](https://twitter.com/fullstackfest)
+* [FullStack Fest](https://www.fullstackfest.com/) // [@fullstackfest](https://twitter.com/fullstackfest)
 * [GreachConf](http://greachconf.com/) // [@greachconf](https://twitter.com/greachconf)
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
 * [JFokus](http://www.jfokus.se) // [@Jfokus](https://twitter.com/Jfokus)
-* [JRubyConf.EU](http://jrubyconf.eu) // [@jrubyconfeu](https://twitter.com/jrubyconfeu)
+* [JRubyConf.EU](https://jrubyconf.eu) // [@jrubyconfeu](https://twitter.com/jrubyconfeu)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
 * [JSConf BP](http://jsconfbp.com/) [@jsconfbp](https://twitter.com/jsconfbp)
-* [JSConf EU](http://2015.jsconf.eu/) [@jsconfeu](https://twitter.com/jsconfeu)
+* [JSConf EU](https://2015.jsconf.eu/) [@jsconfeu](https://twitter.com/jsconfeu)
 * [JSConf Iceland](http://2016.jsconf.is) // [@jsconfis](https://twitter.com/jsconfis)
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
 * [JS Unconf](http://2015.jsunconf.eu/) // [@jsunconf](https://twitter.com/jsunconf)
-* [HumanTalks](http://humantalks.com/) // [@humantalks](https://twitter.com/HumanTalks)
-* [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
+* [HumanTalks](https://humantalks.com/) // [@humantalks](https://twitter.com/HumanTalks)
+* [LXJS](https://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
 * [MoscowJS](http://moscowjs.ru/) // [@moscowjs](https://twitter.com/moscowjs)
 * [Munich JavaScript UF](http://www.munichjs.org/) // [@munichjs](https://twitter.com/munichjs)
 * [ng-europe](https://ngeurope.org) // [@ngEurope](https://twitter.com/ngEurope)
-* [ng-nl](http://ng-nl.org/) // [@ngnlconf](https://twitter.com/ngnlconf)
-* [oscal](http://oscal.openlabs.cc) // [@openlabsalbania](https://twitter.com/openlabsalbania)
+* [ng-nl](https://ng-nl.org/) // [@ngnlconf](https://twitter.com/ngnlconf)
+* [oscal](https://oscal.openlabs.cc) // [@openlabsalbania](https://twitter.com/openlabsalbania)
 * [NodeConf Europe](http://www.nodeconf.eu/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
-* [Paris-Web](http://www.paris-web.fr/) // [@parisweb](https://twitter.com/ParisWeb)
-* [PolyConf](http://polyconf.com/) // [@polyconfhq](https://twitter.com/polyconfhq)
+* [Paris-Web](https://www.paris-web.fr/) // [@parisweb](https://twitter.com/ParisWeb)
+* [PolyConf](https://polyconf.com/) // [@polyconfhq](https://twitter.com/polyconfhq)
 * [React Amsterdam](https://react.amsterdam) // [@ReactAmsterdam](https://twitter.com/ReactAmsterdam)
-* [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
+* [ReactEurope](https://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Redecentralize](http://redecentralize.org/) // [@redecentralize](https://twitter.com/redecentralize)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
-* [RigaDevDays](http://rigadevdays.lv/) // [@rigadevdays](https://twitter.com/rigadevdays)
+* [RigaDevDays](https://rigadevdays.lv/) // [@rigadevdays](https://twitter.com/rigadevdays)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
 * [SFK](http://sfk.flossk.org/) // [@FLOSSKosova](https://twitter.com/flosskosova)
 * [Squatconf](http://squatconf.eu/)
-* [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
+* [WebExpo](https://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ### Asian
 
-* [CSSConf Asia](http://cssconf.asia/) // [@CSSconfasia](https://twitter.com/cssconfasia)
+* [CSSConf Asia](https://cssconf.asia/) // [@CSSconfasia](https://twitter.com/cssconfasia)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
-* [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
+* [JSConf Asia](https://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
 * [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
 * [JSChannel India](http://jschannel.com/) // [@jsfooindia](https://twitter.com/js_channel/)
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
-* [Null Con India](http://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
-* [FOSSASIA](http://fossasia.org/) // [@fossasia](https://twitter.com/fossasia)
+* [Null Con India](https://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
+* [FOSSASIA](https://fossasia.org/) // [@fossasia](https://twitter.com/fossasia)
 * [PyCon Taiwan](https://tw.pycon.org/) // [@PyConTW](https://twitter.com/pycontw)
 * [FUDCON India](http://fudcon.in/) // [@fudconin](https://twitter.com/fudconin)
 * [RubyConf India](http://rubyconfindia.org/) // [@rubyconfindia](https://twitter.com/rubyconfindia)
@@ -287,7 +287,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 ### Australian
 
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
-* [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
+* [CSSConf Australia](https://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
 
 ## Past Conferences
@@ -296,7 +296,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 > This conference looks awesome, because Awwwards sets the tone for a lot of great webdesign. I would love to go to this. - [@RichardLitt](https://github.com/RichardLitt)
 
-* **Website:** http://conference.awwwards.com
+* **Website:** https://conference.awwwards.com
 * **Location:** Los Angeles, NY, London.
 * **Date:** May, 2017
 * **Has reminder mailing list:** Yes
@@ -331,7 +331,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 > This conference is awesome because it brings the whole Go community in India at once place and has a great line-up of speakers.- [@nikhita](https://github.com/nikhita)
 
-* **Website:** [GopherConIndia](http://www.gophercon.in/)
+* **Website:** [GopherConIndia](https://www.gophercon.in/)
 * **Location:** Pune, Maharashtra, India.
 * **Date:** February, 2017.
 * **Has reminder mailing list:** No.
@@ -355,7 +355,7 @@ These sites list open calls for speakers.
 
 * [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
-* [Papercall](https://papercall.io)
+* [Papercall](https://www.papercall.io)
 * [Technically Speaking](https://techspeak.email/)
 * [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 
@@ -378,13 +378,13 @@ How to host stuff.
 * [Conferences list](https://twitter.com/jakerella/lists/conferences/members) by [@jakarella](https://twitter.com/jakerella) on Twitter.
 * [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
-* [totalism.org](http://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
+* [totalism.org](https://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
 
 
 
 ## About
 
-_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
+_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/lists/confs-and-meetups ). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
 
 ## Maintainers
 
@@ -400,4 +400,4 @@ Please do! Check out the [Contributing](contributing.md) file, and [open an issu
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Richard Littauer](https://burntfen.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Richard Littauer](https://burntfen.com/) has waived all copyright and related or neighboring rights to this work.
