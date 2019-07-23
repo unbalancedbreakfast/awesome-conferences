@@ -44,6 +44,19 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ## Conferences
 
+### DevOpsConference
+
+> The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business.
+
+* **Website**: https://devopsconference.de/
+* **Location**: Berlin, GER
+* **Date**: December 2, 2019 - December 5, 2019
+* **Registration** : https://devopsconference.de/tickets/
+* **Has reminder mailing list**: 
+* **Twitter**: [@devops_con](https://twitter.com/devops_con)
+* **Attendees**:
+* **Video**: [Preview](https://www.youtube.com/watch?v=FU5g4E8Dhpc&feature=youtu.be)
+
 ### Abstractions
 
 > I'm a huge fan of the Code & Supply team, and this conference was everything awesome about their community group in conference form. - [@RemyPorter](https://twitter.com/RemyPorter)
